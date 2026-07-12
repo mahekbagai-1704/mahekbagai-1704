@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Mahek Bagai Banner" width="100%">
+</p>
+
 # Hi, I'm Mahek Bagai 👋
 
 ## 👩‍💻 About Me
