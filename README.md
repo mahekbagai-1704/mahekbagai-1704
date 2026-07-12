@@ -86,8 +86,9 @@
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn
-- 🤗 Hugging Face
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahek-bagai-080576398/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Mahek-Bagai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahekbagai@gmail.com)
 
 ---
 
