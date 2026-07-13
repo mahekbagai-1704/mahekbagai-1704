@@ -4,6 +4,8 @@
 
 # Hi, I'm Mahek Bagai 👋
 
+🎓 **MSc Physics Student** • 💻 **Data Science Enthusiast** • 🤖 **AI Explorer**
+
 ## 👩‍💻 About Me
 
 🎓 MSc Physics student passionate about Data Science and Artificial Intelligence.
