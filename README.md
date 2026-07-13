@@ -10,9 +10,9 @@
 
 🎓 MSc Physics student passionate about Data Science and Artificial Intelligence.
 
-💡 I enjoy turning data into intelligent solutions by building end-to-end Machine Learning applications and exploring modern AI technologies.
+💡 I enjoy transforming data into intelligent solutions by building end-to-end Machine Learning applications.
 
-🚀 Currently learning and building projects in Deep Learning, NLP, Generative AI, and Agentic AI.
+🚀 Currently exploring Deep Learning, NLP, Generative AI, Agentic AI, and modern LLM-based applications.
 
 ---
 
@@ -77,12 +77,21 @@
 
 ## 🎯 Current Focus
 
-- 🤖 Building end-to-end AI & Machine Learning applications
-- 🧠 Learning Deep Learning and Agentic AI
-- 🌍 Exploring LLMs, RAG, and AI Workflows
-- 🚀 Continuously improving through real-world projects
+- 🤖 Building end-to-end Machine Learning applications
+- 🧠 Exploring Deep Learning & Generative AI
+- 🌍 Learning LLMs, RAG, and Agentic AI
+- 🚀 Contributing to real-world AI projects
 
 ---
+
+## 🤝 Open to
+
+- AI & Data Science collaborations
+- Open-source contributions
+- Learning opportunities
+- Building impactful AI solutions
+
+----
 
 ## 🌐 Connect with Me
 
