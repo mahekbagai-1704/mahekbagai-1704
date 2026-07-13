@@ -75,14 +75,12 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Current Focus
 
-- Deep Learning
-- Natural Language Processing (NLP)
-- Generative AI
-- Agentic AI
-- LLM Applications
-- AI Workflows
+- 🤖 Building end-to-end AI & Machine Learning applications
+- 🧠 Learning Deep Learning and Agentic AI
+- 🌍 Exploring LLMs, RAG, and AI Workflows
+- 🚀 Continuously improving through real-world projects
 
 ---
 
